@@ -109,7 +109,7 @@ The Webmaster shall maintain the Society’s internal systems, ensure that docum
 The Frontend Developers shall ensure that the Society's websites are user-friendly, visually appealing and capable.
 
 === Platform Engineer (≥1)
-The Platform Engineers shall build and maintain core systems that support the Society’s events
+The Platform Engineers shall build and maintain core systems that support the Society’s events.
 
 === Operations Engineer (≥1)
 The Operations Engineers shall develop or integrate tools to improve the Society’s efficiency.
