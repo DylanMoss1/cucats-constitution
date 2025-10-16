@@ -98,7 +98,6 @@ There shall be one or more Events Officers, who shall be responsible for organis
 There shall be one or more Publicity Officers, who shall be responsible for promoting the Society’s events through social media and other channels, responding to enquiries received via social media platforms, and designing posters and flyers as promotional material.
 
 == Technology Subcommittee
-  
 === Technology Director
 
 The Technology Director shall oversee the technical direction of Society projects.
