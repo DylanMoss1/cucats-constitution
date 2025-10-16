@@ -52,10 +52,68 @@ The day-to-day management of the Society is the responsibility of the Executive 
 - A Secretary
 - A Senior Treasurer
 
-== Senior Treasurer
+=== President
+
+The President shall oversee the general management and direction of the Society, and plan and chair committee meetings, and maintain relationships with sponsors. The President is responsible for finding sponsors if needed and shall serve as the principal liaison between the Society and its sponsors.
+
+=== Vice President
+
+The Vice President shall assist the President in the execution of their duties and shall be responsible for the day-to-day management of the Committee. The Vice President shall further assist the President in sponsor relations and shall organise Committee socials.
+
+=== Junior Treasurer
+
+The Junior Treasurer shall oversee the preparation and processing of invoices and grant applications, ensure that grantees are paid, and manage the Society’s bank account and financial transactions.
+
+=== Secretary
+
+The Secretary shall be responsible for recording meeting minutes and for managing venue bookings for society events and committee meetings. The Secretary shall manage communications with non-sponsors and shall also attend to general enquiries addressed to the Society.
+
+=== Senior Treasurer
 
 The Senior Treasurer shall be a member of the Regent House, or other person approved
 by the Junior Proctor. The Senior Treasurer must be appointed by the elected members of The Executive Committee and must be ex officio a member of The Executive Committee. The Senior Treasurer shall ensure that there is in place proper finance, administration and regulation of the Society.
+
+== Socials Subcommittee
+
+=== Socials Director
+
+The Socials Director shall be responsible for managing and running Society socials.
+
+=== Socials Officer
+
+There shall be one or more Socials Officers per year group. The Socials Officers shall manage socials for their year group with a £1,000 annual budget per year group.
+
+== Events Subcommittee
+
+=== Events Director
+
+The Events Director shall be responsible for managing and running Society events that are not socials.
+
+=== Events Officer
+
+There shall be one or more Events Officers, who shall be responsible for organising computer science focused events.
+
+=== Publicity Officer
+
+There shall be one or more Publicity Officers, who shall be responsible for promoting the Society’s events through social media and other channels, responding to enquiries received via social media platforms, and designing posters and flyers as promotional material.
+
+== Technology Subcommittee
+  
+=== Technology Director
+
+The Technology Director shall oversee the technical direction of Society projects.
+
+=== Webmaster / System Administrator
+The Webmaster shall maintain the Society’s internal systems, ensure that documentation is up to date and oversee the Society's websites.
+
+=== Frontend Developer (≥1)
+The Frontend Developers shall ensure that the Society's websites are user-friendly, visually appealing and capable.
+
+=== Platform Engineer (≥1)
+The Platform Engineers shall build and maintain core systems that support the Society’s events
+
+=== Operations Engineer (≥1)
+The Operations Engineers shall develop or integrate tools to improve the Society’s efficiency.
 
 == Decision Making
 
@@ -77,7 +135,7 @@ Nominations for a new Executive Committee must be submitted to the outgoing Pres
 
 Candidates for the Executive Committee must be Society Members in good-standing and current members of the University at the time of their election.
 
-Candidates for the roles of President, Vice-President, Junior Treasurer and Secretary shall be full-time undergraduate or master's students of the University of Cambridge.
+Candidates for all roles except Senior Treasurer shall be full-time undergraduate or master's students of the University of Cambridge.
 
 == Reopening of Nominations
 
