@@ -102,16 +102,16 @@ There shall be one or more Publicity Officers, who shall be responsible for prom
 
 The Technology Director shall oversee the technical direction of Society projects.
 
-=== Webmaster / System Administrator
-The Webmaster shall maintain the Society’s internal systems, ensure that documentation is up to date and oversee the Society's websites.
+=== System Administrator
+The System Administrator shall maintain the Society’s internal systems, ensure that documentation is up to date and oversee the Society's websites.
 
-=== Frontend Developer (≥1)
+=== Frontend Developer
 The Frontend Developers shall ensure that the Society's websites are user-friendly, visually appealing and capable.
 
-=== Platform Engineer (≥1)
+=== Platform Engineer
 The Platform Engineers shall build and maintain core systems that support the Society’s events.
 
-=== Operations Engineer (≥1)
+=== Operations Engineer
 The Operations Engineers shall develop or integrate tools to improve the Society’s efficiency.
 
 == Decision Making
