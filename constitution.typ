@@ -84,7 +84,7 @@ In order to aid with day-to-day operations, the Executive Committee may delegate
 
 == Elections
 
-The Executive Committee shall be elected using Single Transferable Vote by a secret ballot if there is more than one candidate for a post. Voting shall commence following candidate hustings at the Annual General Meeting (AGM), and may be conducted online.
+The Executive Committee shall be elected using Single Transferable Vote by a secret ballot if there is more than one candidate for a post. Voting shall commence following candidate hustings at the Annual General Meeting (AGM) and may be conducted online over a period of at least one week.
 
 == Nominations <nominations>
 
@@ -185,6 +185,8 @@ No amendment to the constitution intended to remove the position of Senior Treas
 == Calling Meetings
 
 General Committee Meetings can be called at any point by the President.
+
+General Committee Meetings, Annual General Meetings, and Extraordinary General Meetings are collectively referred to as "General Meetings".
 
 The President, or in their absence the Vice President, Secretary or Junior Treasurer, shall take the Chair at any meeting.
 
