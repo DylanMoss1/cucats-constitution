@@ -174,7 +174,7 @@ The assets of the society shall be held in trust by the members of the Executive
 
 == Amendment Process
 
-The Constitution may be amended by a majority vote of the Executive Committee, with the President holding the casting vote in the event of a tie. Any amendments shall be subject to the approval of the University Proctors, where appropriate, and must be submitted to the relevant parties within fourteen days of the vote.
+The Constitution may be amended by a simple majority of those present at a General Committee Meeting, provided that at least three executive committee members are present at the meeting, and the proposed changes have been announced prior to the meeting. Any amendments are subject to approval by the University Proctors as appropriate, and must be received by relevant parties within fourteen days of the vote.
 
 == Senior Treasurer Protection
 
@@ -184,7 +184,7 @@ No amendment to the constitution intended to remove the position of Senior Treas
 
 == Calling Meetings
 
-Meetings can be called at any point by the President.
+General Committee Meetings can be called at any point by the President.
 
 The President, or in their absence the Vice President, Secretary or Junior Treasurer, shall take the Chair at any meeting.
 
