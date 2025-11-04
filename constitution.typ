@@ -76,7 +76,7 @@ The Senior Treasurer shall be a member of the Regent House, or other person appr
 
 Hereafter, any decision requiring the approval of the Executive Committee shall require a majority vote of the President, Vice President, Junior Treasurer, and Secretary, unless otherwise specified. In the event of a tie, the President shall have the casting vote.
 
-At its discretion, the Executive Committee may refer a matter to a majority vote at a General Committee Meeting, provided that this decision is itself approved by a majority vote of the Executive Committee.
+At its discretion, the Executive Committee may refer a matter to a majority vote at a committee meeting, provided that this decision is itself approved by a majority vote of the Executive Committee.
 
 == Delegation of Responsibilities
 
@@ -130,11 +130,11 @@ The Executive Committee may fix a membership fee at their discretion.
 
 == Honorary Membership
 
-The Executive Committee and the General Meetings shall have the right to offer free temporary or life membership to any person as they see fit.
+The Executive Committee shall have the right to offer free temporary or life membership to any person as they see fit.
 
 == Suspension of Membership
 
-The Executive Committee shall have the right to suspend the membership of any person whose actions it deems to be damaging to the Society or its reputation at its discretion. Suspensions may be appealed to the Senior Treasurer, whose decisions shall override the Executive Committee's. Such expulsion shall be undertaken in accordance with @disciplinary-processes, and is subject to confirmation at the next General Meeting of the Society.
+The Executive Committee shall have the right to suspend the membership of any person whose actions it deems to be damaging to the Society or its reputation at its discretion. Suspensions may be appealed to the Senior Treasurer, whose decisions shall override the Executive Committee's. Such expulsion shall be undertaken in accordance with @disciplinary-processes, and is subject to confirmation at the next Meeting of the Society.
 
 = Financial and Liability Matters
 
@@ -174,7 +174,7 @@ The assets of the society shall be held in trust by the members of the Executive
 
 == Amendment Process
 
-The Constitution may be amended by a simple majority of those present at a General Committee Meeting, provided that at least three executive committee members are present at the meeting, and the proposed changes have been announced prior to the meeting. Any amendments are subject to approval by the University Proctors as appropriate, and must be received by relevant parties within fourteen days of the vote.
+The Constitution may be amended by a simple majority of those present at a committee meeting, provided that at least three executive committee members are present at the meeting, and the proposed changes have been announced prior to the meeting. Any amendments are subject to approval by the University Proctors as appropriate, and must be received by relevant parties within fourteen days of the vote.
 
 == Senior Treasurer Protection
 
@@ -196,7 +196,7 @@ Minutes of the meeting must be available upon request for any member of the soci
 
 == Motions
 
-Every motion at a General Meeting shall be proposed and seconded by two other members.
+Every motion at a Meeting shall be proposed and seconded by two other members.
 
 == Extraordinary General Meetings
 
@@ -230,7 +230,7 @@ If the excluded or suspended member — or a former President, Vice President, J
 
 == Dissolution Process
 
-The Society may be dissolved at a General Committee Meeting provided that at least twenty-one days written notice of the intention to dissolve the Society has been given to the members. At least two thirds of those present and voting must vote in favour of the motion for Dissolution for it to be effective.
+The Society may be dissolved at a committee meeting provided that at least twenty-one days written notice of the intention to dissolve the Society has been given to the members. At least two thirds of those present and voting must vote in favour of the motion for Dissolution for it to be effective.
 
 == Asset Distribution
 
