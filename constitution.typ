@@ -39,7 +39,7 @@ The aims and objects of the Society shall be:
 + To promote interest among members and the public in computing and information technology.
 + To help members prepare for a future in the field of computer science.
 + To provide a forum for discussion on issues and topics concerning information technology.
-+ To provide members with funding and assistance in setting up and running their own events that align with the society’s aims.
++ To provide members with funding and assistance in setting up and running their own events that align with the society's aims.
 
 = The Committee and Executive Committee
 
