@@ -36,10 +36,10 @@ The name of the Society shall be "Cambridge University Computing and Technology 
 = Aims and Objects
 
 The aims and objects of the Society shall be:
-+ To promote interest for members and the public in computing and information technology
-+ To provide members with networking opportunities with potential employers
-+ To provide a forum for discussion on issues and topics concerning information technology
-+ To provide members with funding and assistance in setting up and running their own events that align with the society's aims
++ To promote interest among members and the public in computing and information technology.
++ To help members prepare for a future in the field of computer science.
++ To provide a forum for discussion on issues and topics concerning information technology.
++ To provide members with funding and assistance in setting up and running their own events that align with the society’s aims.
 
 = The Committee and Executive Committee
 
@@ -47,7 +47,7 @@ The aims and objects of the Society shall be:
 
 The day-to-day management of the Society is the responsibility of the Executive Committee. This body consists of:
 - A President
-- A Vice-President
+- A Vice President
 - A Junior Treasurer
 - A Secretary
 - A Senior Treasurer
@@ -70,53 +70,13 @@ The Secretary shall be responsible for recording meeting minutes and for managin
 
 === Senior Treasurer
 
-The Senior Treasurer shall be a member of the Regent House, or other person approved
-by the Junior Proctor. The Senior Treasurer must be appointed by the elected members of The Executive Committee and must be ex officio a member of The Executive Committee. The Senior Treasurer shall ensure that there is in place proper finance, administration and regulation of the Society.
-
-== Socials Subcommittee
-
-=== Socials Director
-
-The Socials Director shall be responsible for managing and running Society socials.
-
-=== Socials Officer
-
-There shall be one or more Socials Officers per year group. The Socials Officers shall manage socials for their year group with a £1,000 annual budget per year group.
-
-== Events Subcommittee
-
-=== Events Director
-
-The Events Director shall be responsible for managing and running Society events that are not socials.
-
-=== Events Officer
-
-There shall be one or more Events Officers, who shall be responsible for organising computer science focused events.
-
-=== Publicity Officer
-
-There shall be one or more Publicity Officers, who shall be responsible for promoting the Society’s events through social media and other channels, responding to enquiries received via social media platforms, and designing posters and flyers as promotional material.
-
-== Technology Subcommittee
-=== Technology Director
-
-The Technology Director shall oversee the technical direction of Society projects.
-
-=== System Administrator
-The System Administrator shall maintain the Society’s internal systems, ensure that documentation is up to date and oversee the Society's websites.
-
-=== Frontend Developer
-The Frontend Developers shall ensure that the Society's websites are user-friendly, visually appealing and capable.
-
-=== Platform Engineer
-The Platform Engineers shall build and maintain core systems that support the Society’s events.
-
-=== Operations Engineer
-The Operations Engineers shall develop or integrate tools to improve the Society’s efficiency.
+The Senior Treasurer shall be a member of the Regent House, or other person approved by the Junior Proctor. The Senior Treasurer must be appointed by the elected members of The Executive Committee and must be ex officio a member of The Executive Committee. The Senior Treasurer shall ensure that there is in place proper finance, administration and regulation of the Society.
 
 == Decision Making
 
-Hereafter, any decision mentioned as requiring the approval of the Executive Committee requires the approval of at least two of the President, Vice-President, Junior Treasurer, and Secretary unless otherwise specified.
+Hereafter, any decision requiring the approval of the Executive Committee shall require a majority vote of the President, Vice President, Junior Treasurer, and Secretary, unless otherwise specified. In the event of a tie, the President shall have the casting vote.
+
+At its discretion, the Executive Committee may refer a matter to a majority vote at a General Committee Meeting, provided that this decision is itself approved by a majority vote of the Executive Committee.
 
 == Delegation of Responsibilities
 
@@ -124,7 +84,7 @@ In order to aid with day-to-day operations, the Executive Committee may delegate
 
 == Elections
 
-The Executive Committee, except for the post of Senior Treasurer, shall be first proposed and seconded by two other members. Then they shall be elected using Single Transferable Vote by a secret ballot if there are more than two candidates for a post, following candidate hustings at the Annual General Meeting (AGM). The voting process may be conducted online.
+The Executive Committee shall be elected using Single Transferable Vote by a secret ballot if there is more than one candidate for a post. Voting shall commence following candidate hustings at the Annual General Meeting (AGM), and may be conducted online.
 
 == Nominations <nominations>
 
@@ -146,7 +106,7 @@ The timeline and procedures for each Election shall be set by the Returning Offi
 
 == Handover
 
-The Executive Committee members elected in the annual Lent election shall take office at the Board of Advisors meeting or by the end of Easter Full Term, whichever is sooner.
+Members of the Executive Committee elected in the annual Michaelmas election shall assume office within two weeks of the closing date of the election.
 
 == Vacancies
 
@@ -214,7 +174,7 @@ The assets of the society shall be held in trust by the members of the Executive
 
 == Amendment Process
 
-The Constitution may be amended by a simple majority of those present at a Committee meeting, with a quorum of two-thirds of The Committee. Any amendments are subject to approval by the University Proctors as appropriate, and must be received by relevant parties within fourteen days of the vote.
+The Constitution may be amended by a majority vote of the Executive Committee, with the President holding the casting vote in the event of a tie. Any amendments shall be subject to the approval of the University Proctors, where appropriate, and must be submitted to the relevant parties within fourteen days of the vote.
 
 == Senior Treasurer Protection
 
@@ -226,7 +186,7 @@ No amendment to the constitution intended to remove the position of Senior Treas
 
 Meetings can be called at any point by the President.
 
-The President, or in their absence the Vice-President, Secretary or Junior Treasurer, shall take the Chair at any meeting.
+The President, or in their absence the Vice President, Secretary or Junior Treasurer, shall take the Chair at any meeting.
 
 == Meeting Minutes
 
@@ -264,13 +224,13 @@ In the event of an expulsion, the excluded member is required to return all equi
 
 == Appeals Process <appeals-process>
 
-If the excluded or suspended member — or a former President, Vice-President, Junior Treasurer or Secretary that was demoted by the process specified in @removal-from-office — wishes to appeal the decision, that appeal should be made to the Senior Treasurer who will consider all the facts and whose decision will be final. An appeal as to the process of exclusion, suspension or demotion, but not a further investigation into the facts, may be lodged with the Junior Proctor.
+If the excluded or suspended member — or a former President, Vice President, Junior Treasurer or Secretary that was demoted by the process specified in @removal-from-office — wishes to appeal the decision, that appeal should be made to the Senior Treasurer who will consider all the facts and whose decision will be final. An appeal as to the process of exclusion, suspension or demotion, but not a further investigation into the facts, may be lodged with the Junior Proctor.
 
 = Dissolution of the Society
 
 == Dissolution Process
 
-The Society may be dissolved at a meeting provided that at least twenty-one days written notice of the intention to dissolve the Society has been given to the members. At least two thirds of those present and voting must vote in favour of the motion for Dissolution for it to be effective.
+The Society may be dissolved at a General Committee Meeting provided that at least twenty-one days written notice of the intention to dissolve the Society has been given to the members. At least two thirds of those present and voting must vote in favour of the motion for Dissolution for it to be effective.
 
 == Asset Distribution
 
