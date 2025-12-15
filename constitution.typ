@@ -84,7 +84,7 @@ In order to aid with day-to-day operations, the Executive Committee may delegate
 
 == Elections
 
-The Executive Committee, except for the post of Senior Treasurer, shall be elected using Single Transferable Vote by a secret ballot. Where a position has only one candidate, a confirmatory vote will be held with the option to reopen nominations. Voting shall commence following candidate hustings at the Annual General Meeting (AGM) and will be conducted online over a period of at least seven days.
+The Executive Committee, except for the post of Senior Treasurer, shall be elected using Single Transferable Vote by a secret ballot. Where a position has only one candidate, a confirmatory vote will be held with the option to reopen nominations. Voting shall commence following candidate hustings at the Annual General Meeting (AGM), and will be conducted online over a period of at least seven days.
 
 == Nominations <nominations>
 
