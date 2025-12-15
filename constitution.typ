@@ -84,7 +84,7 @@ In order to aid with day-to-day operations, the Executive Committee may delegate
 
 == Elections
 
-The Executive Committee shall be elected using Single Transferable Vote by a secret ballot if there is more than one candidate for a post. Voting shall commence following candidate hustings at the Annual General Meeting (AGM) and may be conducted online over a period of at least one week.
+The Executive Committee shall be elected using Single Transferable Vote by a secret ballot if there is more than one candidate for a post. Voting shall commence following candidate hustings at the Annual General Meeting (AGM) and may be conducted online over a period of at least seven days.
 
 == Nominations <nominations>
 
@@ -106,7 +106,7 @@ The timeline and procedures for each Election shall be set by the Returning Offi
 
 == Handover
 
-Members of the Executive Committee elected in the annual Michaelmas election shall assume office within two weeks of the closing date of the election.
+Members of the Executive Committee elected in the annual Michaelmas election shall assume office within fourteen days of the closing date of the election.
 
 == Vacancies
 
@@ -174,7 +174,7 @@ The assets of the society shall be held in trust by the members of the Executive
 
 == Amendment Process
 
-The Constitution may be amended by a simple majority of those present at a General Meeting, provided that at least three executive committee members are present at the meeting, and the proposed changes have been announced prior to the meeting. Any amendments are subject to approval by the University Proctors as appropriate, and must be received by relevant parties within fourteen days of the vote.
+The Constitution may be amended by a simple majority of those present at a General Meeting, provided that the proposed changes have been announced at least seven days prior to the meeting. Any amendments are subject to approval by the University Proctors as appropriate, and must be received by relevant parties within fourteen days of the vote.
 
 == Senior Treasurer Protection
 
@@ -188,11 +188,11 @@ General Committee Meetings can be called at any point by the President.
 
 General Committee Meetings, Annual General Meetings, and Extraordinary General Meetings are collectively referred to as "General Meetings".
 
-The President, or in their absence the Vice President, Secretary or Junior Treasurer, shall take the Chair at any meeting.
+The President, or in their absence the Vice President, Secretary, or Junior Treasurer, shall take the Chair at any meeting.
 
 == Meeting Minutes
 
-General Meeting minutes for every meeting shall be produced by the Secretary. In their absence, another member of the meeting should be elected to take minutes for that meeting.
+General Meeting minutes for every meeting shall be produced by the Secretary. In their absence, another member of the meeting should be assigned to take minutes for that meeting.
 
 Minutes of the meeting must be available upon request for any member of the society.
 
